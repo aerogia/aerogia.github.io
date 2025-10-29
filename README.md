@@ -1,5 +1,5 @@
 # aerogia.github.io
-Site for TechNova 2025 - Web Designing.
+## Site for TechNova 2025 - Web Designing | Group - HSC
 
 This website consists of a single webpage, styled after the Frutiger Aero aesthetic, with an overview of the design style.
 
