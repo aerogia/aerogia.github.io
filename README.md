@@ -5,4 +5,4 @@ This website consists of a single webpage, styled after the Frutiger Aero aesthe
 
 The code is usable under the MIT License, but the images may not be.
 
-Best of luck to all participants! Personal information given through Google Form.
+Best of luck to all participants! Personal information given through Google Forms.
