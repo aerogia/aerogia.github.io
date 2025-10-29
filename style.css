@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body {
+	background:linear-gradient(#ffffff01, #fff 100%), url("vectordelia_81.jpg");
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.parent-container {
+	padding:10px;
+}
+
+.main {
+	background:linear-gradient(#ffffff65, #fff);
+	font-family:"Open Sans", sans-serif;
+	font-size:16px;
+	margin:auto;
+	border-bottom:1px #fff solid;
+	border-radius:50px;
+	box-shadow:0 0 50px #00000020;
+	max-width:700px;
+	color:#354F50;
+	backdrop-filter:10px;
+}
+
+.header {
+	background:url("leaves.png");
+	background-size:275px;
+	background-repeat:no-repeat;
+	background-position:left;
+	padding:20px;
+	font-size:16px;
+	font-family:"Roboto Condensed", sans-serif;
+	color:#fff;
+	text-shadow:-2px -2px 10px #A8B33D, 2px -2px 0 #A8B33D, -2px 2px 10px #A8B33D, 2px 2px 0 #A8B33D;
+	text-align:right;
+	border-top:1px solid #ffffff;
+	border-radius:50px;
+}
+
+.textbox {
+	padding:20px;
+}
+
+.bar {
+	background:linear-gradient(#ffffff65, #fff);
+	top:0;
+	box-shadow:0 0 50px #fff;
+	width:100%;
+	border:1px solid #fff;
+}
+
+.img {
+	max-width:200px;
+	border-radius:100px;
+}
+
+.img-box {
+	border-top:1px solid #fff;
+	border-radius:100px;
+	text-shadow:0 0 10px #fff inset, 0 0 10px #fff;
+}
+
+.row {
+	display:flex;
+	flex-direction:row;
+	gap:10px;
+	margin:10px;
+}
+
+a {
+	color:#354F5080;
+	text-decoration:none;
+	transition:0.5s;
+	text-shadow:0 0 5px #354F5060;
+}
+
+a:hover {
+	color:#354F50;
+	
+}
+
+.line {
+	max-width:200px;
+	border:1px solid #354F5080;
+}
